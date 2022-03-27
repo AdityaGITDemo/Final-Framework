@@ -1,0 +1,8 @@
+19:57:08.803 [main] INFO  resources.Base - Driver is initialized
+19:57:11.547 [main] INFO  resources.Base - Navigated to login page
+19:59:33.566 [main] INFO  resources.Base - Driver is initialized
+19:59:36.472 [main] INFO  resources.Base - Navigated to login page
+19:59:43.766 [main] INFO  resources.Base - Driver is initialized
+19:59:46.889 [main] INFO  resources.Base - Navigated to login page
+19:59:49.035 [main] INFO  resources.Base - User login verified successfully!
+20:04:19.865 [main] INFO  resources.Base - Driver is initialized

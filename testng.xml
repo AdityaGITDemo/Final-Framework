@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="com.testcases2.Listeners"/>
+</listeners>
+  <test name="Test 1">
+    <classes>
+<!--       <class name="com.testcases2.HomePage"/> -->
+<!--       <class name="com.testcases2.BalanceInquiryPage"/> -->
+      <class name="com.testcases2.LoginPage"/>
+<!--       <class name="com.testcases2.DeleteCustomerPage"/> -->
+<!--       <class name="com.testcases2.NewCustomerPage"/> -->
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+ 
+
